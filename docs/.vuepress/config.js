@@ -15,6 +15,7 @@ module.exports = {
         }
     },
     themeConfig: {
+        theme: 'vuepress-theme-easyswoole',
         sidebar: 'auto',
         locales: {
             '/': {
