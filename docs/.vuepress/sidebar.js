@@ -18,10 +18,6 @@ const sidebarCn = [
         ]
     }
 ];
-const sidebarEn = [
-    '/',
-    '/page-a',
-    ['/page-b', 'Explicit link text']
-];
+const sidebarEn = [];
 
 module.exports = {sidebarCn, sidebarEn};

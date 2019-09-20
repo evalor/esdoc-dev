@@ -90,7 +90,6 @@ Inline-style 内嵌方式：
     print s
 ```
 
-<strong>Blockquotes 引用：</strong>
 > Email-style angle brackets
 > are used for blockquotes.
 > > And, they can be nested.
