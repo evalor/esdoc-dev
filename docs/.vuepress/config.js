@@ -15,6 +15,7 @@ module.exports = {
         }
     },
     themeConfig: {
+        logo: '/resources/logo.png',
         theme: 'vuepress-theme-easyswoole',
         sidebar: 'auto',
         locales: {
@@ -27,7 +28,7 @@ module.exports = {
                     {text: '源码仓库', link: 'https://github.com/easy-swoole'},
                 ]
             },
-            'en': {
+            '/en/': {
                 selectText: 'translate',
                 label: 'ENGLISH',
                 editLinkText: 'Edit this page on GitHub',
